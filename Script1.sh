@@ -4,3 +4,4 @@ echo "We are learning Branching"
 echo "I am learning Git"
 echo " learnig new "
 echo " I am creating a feature branch"
+echo " its tuesday init'
